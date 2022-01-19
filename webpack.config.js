@@ -365,7 +365,7 @@ const webpackConfig = {
 
 					// If the file is in the root directory, you can leave it empty. If in another directory, 
 					// you can write: "/blog". (but no trailing slash)
-					const websiteRootDir = '';
+					const websiteRootDir = '../..';
 					
 					//fonts
 					if ( resourcePath.indexOf( 'webfonts/' ) >= 0 || resourcePath.indexOf( 'fonts/' ) >= 0 ) {

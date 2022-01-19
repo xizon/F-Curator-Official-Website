@@ -20297,8 +20297,8 @@ img.mfp-img {
   font-style: normal;
   font-weight: normal;
   font-display: auto;
-  src: url(/dist/fonts/dc593d07f678adfe75ee650be9922ffa.eot);
-  src: url(/dist/fonts/dc593d07f678adfe75ee650be9922ffa.eot?#iefix) format("embedded-opentype"), url(/dist/fonts/43349106a076e5ac6d7251174948e8ba.woff2) format("woff2"), url(/dist/fonts/b659903e2b94bcc04310a2454413b718.woff) format("woff"), url(/dist/fonts/ac7c8fba0f8afc076f8d5db8bc78c7a8.ttf) format("truetype"), url(/dist/fonts/84966e99e177c41f524db31c34757faf.svg#fontawesome) format("svg");
+  src: url(../../dist/fonts/dc593d07f678adfe75ee650be9922ffa.eot);
+  src: url(../../dist/fonts/dc593d07f678adfe75ee650be9922ffa.eot?#iefix) format("embedded-opentype"), url(../../dist/fonts/43349106a076e5ac6d7251174948e8ba.woff2) format("woff2"), url(../../dist/fonts/b659903e2b94bcc04310a2454413b718.woff) format("woff"), url(../../dist/fonts/ac7c8fba0f8afc076f8d5db8bc78c7a8.ttf) format("truetype"), url(../../dist/fonts/84966e99e177c41f524db31c34757faf.svg#fontawesome) format("svg");
 }
 
 .fab {
@@ -20310,8 +20310,8 @@ img.mfp-img {
   font-style: normal;
   font-weight: 300;
   font-display: auto;
-  src: url(/dist/fonts/ccc161b9cb9794d90d4fe9135f5f1314.eot);
-  src: url(/dist/fonts/ccc161b9cb9794d90d4fe9135f5f1314.eot?#iefix) format("embedded-opentype"), url(/dist/fonts/6ff36265c8aebc4273614bd647fcbdae.woff2) format("woff2"), url(/dist/fonts/d2a1d36f9348fb37c11b1fdc2a54e2ef.woff) format("woff"), url(/dist/fonts/9d256350127a53995c8cb7487567e323.ttf) format("truetype"), url(/dist/fonts/d256089a493b220bfc597fe1588bb4f3.svg#fontawesome) format("svg");
+  src: url(../../dist/fonts/ccc161b9cb9794d90d4fe9135f5f1314.eot);
+  src: url(../../dist/fonts/ccc161b9cb9794d90d4fe9135f5f1314.eot?#iefix) format("embedded-opentype"), url(../../dist/fonts/6ff36265c8aebc4273614bd647fcbdae.woff2) format("woff2"), url(../../dist/fonts/d2a1d36f9348fb37c11b1fdc2a54e2ef.woff) format("woff"), url(../../dist/fonts/9d256350127a53995c8cb7487567e323.ttf) format("truetype"), url(../../dist/fonts/d256089a493b220bfc597fe1588bb4f3.svg#fontawesome) format("svg");
 }
 
 .fal {
@@ -20323,8 +20323,8 @@ img.mfp-img {
   font-style: normal;
   font-weight: 400;
   font-display: auto;
-  src: url(/dist/fonts/343e8a69cc228b9e6cfa9f2c34a5e840.eot);
-  src: url(/dist/fonts/343e8a69cc228b9e6cfa9f2c34a5e840.eot?#iefix) format("embedded-opentype"), url(/dist/fonts/b9fbe9a70ad2a322981df0cb6293c92a.woff2) format("woff2"), url(/dist/fonts/af399b5e5aaf2e225f90221f41122e65.woff) format("woff"), url(/dist/fonts/3989a0755f27b8f9b9824f50ee144501.ttf) format("truetype"), url(/dist/fonts/00c0694f8621d1959409fa014010cddd.svg#fontawesome) format("svg");
+  src: url(../../dist/fonts/343e8a69cc228b9e6cfa9f2c34a5e840.eot);
+  src: url(../../dist/fonts/343e8a69cc228b9e6cfa9f2c34a5e840.eot?#iefix) format("embedded-opentype"), url(../../dist/fonts/b9fbe9a70ad2a322981df0cb6293c92a.woff2) format("woff2"), url(../../dist/fonts/af399b5e5aaf2e225f90221f41122e65.woff) format("woff"), url(../../dist/fonts/3989a0755f27b8f9b9824f50ee144501.ttf) format("truetype"), url(../../dist/fonts/00c0694f8621d1959409fa014010cddd.svg#fontawesome) format("svg");
 }
 
 .fal, .far {
@@ -20340,8 +20340,8 @@ img.mfp-img {
   font-style: normal;
   font-weight: 900;
   font-display: auto;
-  src: url(/dist/fonts/768d760dd622e4543056589d639fd52f.eot);
-  src: url(/dist/fonts/768d760dd622e4543056589d639fd52f.eot?#iefix) format("embedded-opentype"), url(/dist/fonts/7d49f26e261fa35ed52a26506c9c42eb.woff2) format("woff2"), url(/dist/fonts/89a092518fd7ee9d7d811912946e5600.woff) format("woff"), url(/dist/fonts/26e23515e89a12dda59e0cf3ac20c1aa.ttf) format("truetype"), url(/dist/fonts/09cc653d761972b18d3608ef5f19538f.svg#fontawesome) format("svg");
+  src: url(../../dist/fonts/768d760dd622e4543056589d639fd52f.eot);
+  src: url(../../dist/fonts/768d760dd622e4543056589d639fd52f.eot?#iefix) format("embedded-opentype"), url(../../dist/fonts/7d49f26e261fa35ed52a26506c9c42eb.woff2) format("woff2"), url(../../dist/fonts/89a092518fd7ee9d7d811912946e5600.woff) format("woff"), url(../../dist/fonts/26e23515e89a12dda59e0cf3ac20c1aa.ttf) format("truetype"), url(../../dist/fonts/09cc653d761972b18d3608ef5f19538f.svg#fontawesome) format("svg");
 }
 
 .fa, .fas {
