@@ -8,7 +8,7 @@
  * ## Project URL         :  https://uiux.cc
  * ## Version             :  0.0.1
  * ## Based on            :  Uix Kit (https://github.com/xizon/f-curator-official-website)
- * ## Last Update         :  January 19, 2022
+ * ## Last Update         :  January 20, 2022
  * ## Created by          :  UIUX Lab (https://uiux.cc) (uiuxlab@gmail.com)
  * ## Released under the MIT license.
  *
@@ -494,9 +494,9 @@ var MAIN = function (module, $, window, document) {
       loop: false,
       items: 4,
       navText: ['<i class="fa fa-angle-left"></i>', '<i class="fa fa-angle-right"></i>'],
-      nav: false,
-      dots: false,
-      autoplay: false,
+      nav: true,
+      dots: true,
+      autoplay: true,
       margin: 20,
       responsive: {
         0: {

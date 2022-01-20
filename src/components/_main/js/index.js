@@ -204,9 +204,9 @@ export const MAIN = ( ( module, $, window, document ) => {
         loop: false,
         items: 4,
         navText: ['<i class="fa fa-angle-left"></i>', '<i class="fa fa-angle-right"></i>'],
-        nav: false,
-        dots: false,
-        autoplay: false,
+        nav: true,
+        dots: true,
+        autoplay: true,
         margin: 20,
         responsive: {
           0: {

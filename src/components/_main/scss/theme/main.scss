@@ -1882,3 +1882,36 @@ ul.contract-space li p {
 .single-screenshot img {
 	border-radius: 15px;
 }
+
+
+.owl-prev {
+	position: absolute;
+    left: 0;
+    z-index: 1;
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+.owl-next {
+	position: absolute;
+    right: 0;
+    z-index: 1;
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+@media all and (min-width: 769px) {
+	.owl-prev {
+		transform: translateY(-222%);
+		left: -40px;
+	
+	}
+	
+	.owl-next {
+		transform: translateY(-222%);
+		right: -40px;
+	
+	}
+}
+
+
