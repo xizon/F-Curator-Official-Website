@@ -290,8 +290,6 @@
           .then(res => {
             res.assets.map((item) =>{
                 const downloadURL = item.browser_download_url;
-                const strRegex = "";
-                const re = new RegExp(strRegex);
                 if (/(.dmg)$/.test(downloadURL.toLowerCase())){
                     Array.prototype.slice.call( document.getElementsByClassName("download-url-mac") ).forEach((node)=>{
                         node.href = downloadURL;
